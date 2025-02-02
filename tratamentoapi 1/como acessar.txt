@@ -1,0 +1,6 @@
+http://localhost:8080/formatar?tratamento=Sr.&nome=Fernando&sobrenome=Matos
+
+http://localhost:8080/formatar?nome=João
+
+http://localhost:8080/formatar
+
